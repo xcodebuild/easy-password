@@ -1,0 +1,4 @@
+.weui-btn_primary:local(.copyButton) {
+  width: 95%;
+  margin-top: 5%;
+}
