@@ -24,5 +24,11 @@
 
   :local(.title) {
     padding: 5% 5% 0 5%;
+    animation: 0.5s go-top;
+  }
+
+  @keyframes go-top {
+    0% { padding: 10% 0 0 10%; }
+    100% { padding: 5% 5% 0 5%; }
   }
 }
