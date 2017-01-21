@@ -9,7 +9,7 @@ import 'react-weui/lib/react-weui.min.css';
 import Page from './components/Page';
 import style from './App.css';
 
-import encrypt from './lib/encrpty';
+import encrypt from './lib/encrypt';
 
 import {
   CellsTitle, 
